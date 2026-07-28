@@ -33,4 +33,4 @@ This project analyzes mobile sales data and provides insights through an interac
 ![MTD Report](MTD_Report.jpg)
 
 ### Same Period Last Year Report
-![Same Period Last Year Report](Same_Period_LastYear_Report.jpg)
+![Same Period Last Year Report](Same_Period_Last_Year_report.jpg)
